@@ -15,7 +15,6 @@
 
 *Computer science student*
 
-
 ##Bold text
 
 **Computer science student**
