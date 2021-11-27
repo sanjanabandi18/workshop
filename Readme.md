@@ -70,4 +70,13 @@
 2. GITHUB
       1. USER NAME
       2. MAIL ID
-      3. PASSWORD  
+      3. PASSWORD 
+
+```python 
+   def hello()
+      a=10
+      b=20
+      c=30
+      if a%2==0
+   print(a+b+c)
+```
